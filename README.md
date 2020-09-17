@@ -1,3 +1,8 @@
+For privacy reasons you would need to use your own Yelp API key.
+Start by navigating to the “Manage App” section of the documentation page. Note that you’ll have to log in (or create an account if you don’t already have one).
+In src/util/Yelp.js please insert your Yelp API key.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
