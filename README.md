@@ -1,5 +1,5 @@
 For privacy reasons you would need to use your own Yelp API key.
-Start by navigating to the “Manage App” section of the documentation page. Note that you’ll have to log in (or create an account if you don’t already have one).
+Start by navigating to the “Manage App” section of the documentation page: https://www.yelp.com/login?return_url=%2Fdevelopers%2Fv3%2Fmanage_app . Note that you’ll have to log in (or create an account if you don’t already have one).
 In src/util/Yelp.js please insert your Yelp API key.
 
 
